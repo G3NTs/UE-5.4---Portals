@@ -6,6 +6,9 @@
 #include "GameFramework/Actor.h"
 #include "DebugDisplay.generated.h"
 
+/**
+ * This class is currently deprecated. Do not use!
+ */
 UCLASS()
 class PORTAL2_API ADebugDisplay : public AActor
 {
