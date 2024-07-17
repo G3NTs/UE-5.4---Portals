@@ -37,7 +37,7 @@ To use this Unreal Engine repository, follow these steps:
 
 ## Download
 
-You can download the latest build of the portal demo game [here]([#](https://drive.google.com/file/d/1XQGadItVdYzw4-aQqdyhNw70yR_grIRX/view?usp=sharing)).
+You can download the latest build of the portal demo game [here](https://drive.google.com/file/d/1XQGadItVdYzw4-aQqdyhNw70yR_grIRX/view?usp=sharing).
 
 ## Development Blog
 
