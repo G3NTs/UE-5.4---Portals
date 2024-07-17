@@ -35,6 +35,8 @@ To use this Unreal Engine repository, follow these steps:
 4. Explore the Blueprints and C# scripts for additional logic.
 5. Utilize Visual Studio to navigate through the C++ code with "Go to Definition".
 
+note: This project uses many classes from the base first person demo from unreal engine. Some of these files have been modified. All unique original files can be found in the private and public sub folders.
+
 ## Download
 
 You can download the latest build of the portal demo game [here](https://drive.google.com/file/d/1XQGadItVdYzw4-aQqdyhNw70yR_grIRX/view?usp=sharing).
