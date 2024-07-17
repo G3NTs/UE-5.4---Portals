@@ -1,4 +1,5 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
+// Modified version of the Epic Games weapon class.
 
 #pragma once
 
