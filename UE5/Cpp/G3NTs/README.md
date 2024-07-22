@@ -47,3 +47,5 @@ You can download the latest build of the portal demo game [here](https://drive.g
 ## Development Blog
 
 For a more detailed development blog, visit my portfolio website [here](#) WIP.
+
+![ShareX_zMdbyKClIh](https://github.com/user-attachments/assets/d87138ae-65ea-4282-82c8-5456593b7713)
