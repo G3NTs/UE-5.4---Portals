@@ -2,6 +2,8 @@
 
 This repository contains the source code for a Portals Demo Game created in Unreal Engine 5.4.2 for CaptainCoder's Mechanically Challenged Game Jam.
 
+![Demo GIF](https://github.com/G3NTs/UE-5.4---Portals/UE5/Cpp/G3NTs/portal.gif)
+
 ## Overview
 
 The game primarily utilizes C++ for the portal mechanics, with a small amount of C# and Blueprints where necessary. Each C++ function is documented using unreals documentation standard in both the `.hpp` and `.cpp` files. If you encounter any functions you don't understand, you can use Visual Studio's "Go to Definition" feature to view the source functions.
