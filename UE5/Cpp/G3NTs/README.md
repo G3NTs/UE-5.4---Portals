@@ -3,8 +3,6 @@
 This repository contains the source code for a Portals Demo Game created in Unreal Engine 5.4.2 for CaptainCoder's Mechanically Challenged Game Jam.
 
 ![Portal2-Win64-Shipping_5l0ktOkCR3](https://github.com/user-attachments/assets/0cced562-5725-4b3a-98c9-6fa418df7478)
-![ShareX_3gJETyfvy5](https://github.com/user-attachments/assets/d5dc9405-a50b-4d24-bb6c-d7a7563a802c)
-
 
 ## Overview
 
@@ -39,6 +37,8 @@ To use this Unreal Engine repository, follow these steps:
 4. Explore the Blueprints and C# scripts for additional logic.
 
 note: This project uses many classes from the base first person demo from unreal engine. Some of these files have been modified. All unique original files can be found in the private and public sub folders.
+
+![ShareX_3gJETyfvy5](https://github.com/user-attachments/assets/d5dc9405-a50b-4d24-bb6c-d7a7563a802c)
 
 ## Download
 
