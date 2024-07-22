@@ -2,7 +2,7 @@
 
 This repository contains the source code for a Portals Demo Game created in Unreal Engine 5.4.2 for CaptainCoder's Mechanically Challenged Game Jam.
 
-![Demo GIF](https://github.com/G3NTs/UE-5.4---Portals/UE5/Cpp/G3NTs/portal.gif)
+![Demo GIF](https://github.com/G3NTs/UE-5.4---Portals/blob/main/UE5/Cpp/G3NTs/portal.gif)
 
 ## Overview
 
