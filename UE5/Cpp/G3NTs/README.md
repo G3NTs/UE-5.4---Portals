@@ -46,6 +46,6 @@ You can download the latest build of the portal demo game [here](https://drive.g
 
 ## Development Blog
 
-For a more detailed development blog, visit my portfolio website [here](#) WIP.
+For a more detailed development blog, visit my portfolio website [here](https://g3nts.github.io/Portfolio-Web/Portal.html) WIP.
 
 ![ShareX_zMdbyKClIh](https://github.com/user-attachments/assets/d87138ae-65ea-4282-82c8-5456593b7713)
